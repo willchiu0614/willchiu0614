@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](Untitled ‑ Made with FlexClip.gif)
+![image](https://github.com/willchiu0614/willchiu0614/blob/main/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif)
 <!--
 **willchiu0614/willchiu0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
